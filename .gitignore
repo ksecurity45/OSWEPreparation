@@ -1,0 +1,13 @@
+*.exe
+*.sh
+*.py[dac]
+*.obj
+*.out
+*.pdb
+*.go
+*.txt
+*.lib
+out/
+bin/
+tmp/
+temp/

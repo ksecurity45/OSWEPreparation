@@ -2,7 +2,7 @@
 
 ## About
 
-Notes/Writeups for OSWE course from Offensive Security
+Notes/writeups for OSWE course from Offensive Security
 
 ## Author
 
@@ -16,19 +16,19 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 #### HackTheBox
 
-- [ ] Vault
-- [ ] Popcorn
-- [ ] Celestial
-- [ ] Blocky
-- [ ] Falafel
-- [ ] Zipper
-- [ ] Unattended
-- [ ] Help
-- [ ] Mango
-- [ ] JSON
-- [ ] Arkham
-- [ ] Hackback
-- [ ] Holiday
+- [ ] [Vault](https://app.hackthebox.eu/machines/161)
+- [ ] [Popcorn](https://app.hackthebox.eu/machines/4)
+- [ ] [Celestial](https://app.hackthebox.eu/machines/130)
+- [ ] [Blocky](https://app.hackthebox.eu/machines/48)
+- [ ] [Falafel](https://app.hackthebox.eu/machines/124)
+- [ ] [Zipper](https://app.hackthebox.eu/machines/159)
+- [ ] [Unattended](https://app.hackthebox.eu/machines/184)
+- [ ] [Help](https://app.hackthebox.eu/machines/170)
+- [ ] [Mango](https://app.hackthebox.eu/machines/214)
+- [ ] [JSON](https://app.hackthebox.eu/machines/210)
+- [ ] [Arkham](https://app.hackthebox.eu/machines/179)
+- [ ] [Hackback](https://app.hackthebox.eu/machines/176)
+- [ ] [Holiday](https://app.hackthebox.eu/machines/22)
 
 #### VulnHub
 
@@ -45,6 +45,4 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 **TODO**:
 
-- [ ] add notes for each topic in the syllabus.
-- [ ] Add writeups for machines I already completed
-
+- [ ] Add notes for each topic in the syllabus.
