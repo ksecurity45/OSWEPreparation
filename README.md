@@ -16,30 +16,36 @@ Based on [TJnull](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88
 
 #### HackTheBox
 
-- [ ] [Vault](https://app.hackthebox.eu/machines/161)
-- [ ] [Popcorn](https://app.hackthebox.eu/machines/4)
-- [ ] [Celestial](https://app.hackthebox.eu/machines/130)
-- [ ] [Blocky](https://app.hackthebox.eu/machines/48)
-- [ ] [Falafel](https://app.hackthebox.eu/machines/124)
-- [ ] [Zipper](https://app.hackthebox.eu/machines/159)
-- [ ] [Unattended](https://app.hackthebox.eu/machines/184)
-- [ ] [Help](https://app.hackthebox.eu/machines/170)
-- [ ] [Mango](https://app.hackthebox.eu/machines/214)
-- [ ] [JSON](https://app.hackthebox.eu/machines/210)
-- [ ] [Arkham](https://app.hackthebox.eu/machines/179)
-- [ ] [Hackback](https://app.hackthebox.eu/machines/176)
-- [ ] [Holiday](https://app.hackthebox.eu/machines/22)
+Link to my HTB profile: [rbct](https://app.hackthebox.eu/profile/57923).
+
+| Box Name   | Official page                                  | Writeup | Status               |
+| ---------- | ---------------------------------------------- | ------- | -------------------- |
+| Vault      | [Link](https://app.hackthebox.eu/machines/161) |         | :white_large_square: |
+| Popcorn    | [Link](https://app.hackthebox.eu/machines/4)   |         | :white_large_square: |
+| Celestial  | [Link](https://app.hackthebox.eu/machines/130) |         | :white_large_square: |
+| Blocky     | [Link](https://app.hackthebox.eu/machines/48)  |         | :white_large_square: |
+| Falafel    | [Link](https://app.hackthebox.eu/machines/124) |         | :white_large_square: |
+| Zipper     | [Link](https://app.hackthebox.eu/machines/159) |         | :white_large_square: |
+| Unattended | [Link](https://app.hackthebox.eu/machines/184) |         | :white_large_square: |
+| Help       | [Link](https://app.hackthebox.eu/machines/170) |         | :white_large_square: |
+| Mango      | [Link](https://app.hackthebox.eu/machines/214) |         | :white_large_square: |
+| JSON       | [Link](https://app.hackthebox.eu/machines/210) |         | :white_large_square: |
+| Arkham     | [Link](https://app.hackthebox.eu/machines/179) |         | :white_large_square: |
+| Hackback   | [Link](https://app.hackthebox.eu/machines/176) |         | :white_large_square: |
+| Holiday    | [Link](https://app.hackthebox.eu/machines/22)  |         | :white_large_square: |
 
 #### VulnHub
 
-- [ ] [Silky-CTF 0x02](https://www.vulnhub.com/entry/silky-ctf-0x02,307/)
-- [ ] [bWAPP](https://www.vulnhub.com/entry/bwapp-bee-box-v16,53/)
-- [ ] [Homeless 1](https://www.vulnhub.com/entry/homeless-1,215/)
-- [ ] [Seattle V0.3](https://www.vulnhub.com/entry/seattle-v03,145/)
-- [ ] [Ted: 1](https://www.vulnhub.com/entry/ted-1,327/)
-- [ ] [Raven: 2](https://www.vulnhub.com/entry/raven-2,269/)
-- [ ] [Potato: 1](https://www.vulnhub.com/entry/potato-1,529/)
-- [ ] [SecureCode: 1](https://www.vulnhub.com/entry/securecode-1,651/)
+| Box Name       | Official page                                               | Writeup | Status               |
+| -------------- | ----------------------------------------------------------- | ------- | -------------------- |
+| Silky-CTF 0x02 | [Link](https://www.vulnhub.com/entry/silky-ctf-0x02,307/)   |         | :white_large_square: |
+| bWAPP          | [Link](https://www.vulnhub.com/entry/bwapp-bee-box-v16,53/) |         | :white_large_square: |
+| Homeless 1     | [Link](https://www.vulnhub.com/entry/homeless-1,215/)       |         | :white_large_square: |
+| Seattle V0.3   | [Link](https://www.vulnhub.com/entry/seattle-v03,145/)      |         | :white_large_square: |
+| Ted: 1         | [Link](https://www.vulnhub.com/entry/ted-1,327/)            |         | :white_large_square: |
+| Raven: 2       | [Link](https://www.vulnhub.com/entry/raven-2,269/)          |         | :white_large_square: |
+| Potato: 1      | [Link](https://www.vulnhub.com/entry/potato-1,529/)         |         | :white_large_square: |
+| SecureCode: 1  | [Link](https://www.vulnhub.com/entry/securecode-1,651/)     |         | :white_large_square: |
 
 ### Topics
 
